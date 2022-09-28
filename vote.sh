@@ -23,6 +23,7 @@ banner(){
     echo "    \\  / | |__| | | |  | |____ "
     echo "     \\/   \\____/  |_|  |______|"
     echo "  More votes for you favorite candidate!! "
+    echo "                            >by: zcode<   "
     echo ""
 }
 
